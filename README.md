@@ -1,2 +1,3 @@
-# CI-CD-Pipeline-for-Containerized-Web-Application-Docker-GitHub-Actions-
-A streamlined Flask web application encapsulated within a Docker container and incorporated into a GitHub Actions CI pipeline that systematically manages dependency installation, executes tests, constructs images, and uploads them to Docker Hub, exemplifying essential DevOps automation and continuous integration methodologies
+git add .
+git commit -m "Trigger CI pipeline after adding secrets"
+git push
